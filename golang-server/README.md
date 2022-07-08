@@ -2,7 +2,7 @@
 
 ### build container image, name it 'goserver'
 ```
-% docker build -t goserver
+% docker build -t goserver .
 ```
 
 ### Run once on Docker
